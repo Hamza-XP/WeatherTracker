@@ -5,3 +5,8 @@ App to show a weather forecast
 - Real-time weather updates
 - City search functionality
 - User-friendly interface
+
+## Tools
+- HTML
+- CSS
+- JavaScript
